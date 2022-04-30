@@ -1,11 +1,11 @@
-.footer__column_link:hover {
+.footer__column-link:hover {
     text-decoration: none;
     color: white;
     opacity: 80%;
 }
 
-.footer__column_link:active,
-.footer__column_link {
+.footer__column-link:active,
+.footer__column-link {
     text-decoration: none;
     color: white;
 }
